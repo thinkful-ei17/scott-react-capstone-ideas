@@ -46,7 +46,7 @@ This version may not support the following features:
 ## Screen by Screen
 
 StudyGroup consists of a variety of views.  All will be executed using React Components.
-Each view will be represented in the following document with ALL CAPITOL LETTERS.
+Each view will be represented in the following document with ALL CAPITAL LETTERS.
 
 ## Landing View
 
