@@ -39,8 +39,9 @@ This version may not support the following features:
 
 ## StudyGroup Wireframes
 
-![Hand-drawn wireframes for StudyGroup](./wireframes/StudyGroup_wireframe1.JPG =300px)
-![More hand-drawn wireframes for StudyGroup](./wireframes/StudyGroup_wireframes_2.JPG =300px)
+![Hand-drawn wireframes for StudyGroup](./wireframes/StudyGroup_wireframe1.JPG)
+
+![More hand-drawn wireframes for StudyGroup](./wireframes/StudyGroup_wireframes_2.JPG)
 
 ## Screen by Screen
 
