@@ -48,7 +48,7 @@ This version may not support the following features:
 StudyGroup consists of a variety of views.  All will be executed using React Components.
 Each view will be represented in the following document with ALL CAPITOL LETTERS.
 
-## Landing VIEW
+## Landing View
 
 The LANDING VIEW will have a Title and brief description of the App (these do not appear in the wireframes).  It will also have a form for user authentication.  There will be two buttons - one for existing user log-in, and one for registering a new user.  (There should probably be a demo account, also).  
 
