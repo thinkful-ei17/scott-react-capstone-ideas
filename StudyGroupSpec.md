@@ -96,7 +96,7 @@ The LOCATION DETAIL VIEW will also have two buttons/links.
   - to add a comment which will pop-up an Input Box w/add button
   - to add a rating which will trigger a selector of some sort w/ add button
 
-## LOCATION ENTRY View
+## Location Entry View
 
 The LOCATION ENTRY VIEW will be a form with fields for Location Name, Address, Image and Comments. And a button for form submission.  Once LOCATION ENTRY is submitted, it will take the user back to the LOCATIONS VIEW.
 
